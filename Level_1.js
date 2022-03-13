@@ -1,4 +1,4 @@
-This code is written in NodeJs
+//This code is written in NodeJs
 
 let nbTemperature = 3
 let input = "-1 6 -3 "
